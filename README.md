@@ -21,7 +21,7 @@ This project uses a comprehensive dataset encompassing multiple diabetes subtype
 1. Open the notebook:
 ### ▶️ Run Directly in Google Colab
 You can execute the entire workflow without any setup:
-🔗 [**Open Project in Colab**](https://colab.research.google.com/drive/1G_jjmFN5ur6ABKDNm6I8A5J6T5J658Eb?usp=sharing)
+🔗 [**Open Project in Colab**](https://colab.research.google.com/drive/1q-nUQ2FST6eJ09AvpHbYYH9nQqWF_7W7?usp=sharing)
 #### Codes and Resources Used
 - **Editor Used:** Google Colab / Jupyter Notebook  
 - **Python Version:** 3.12  
@@ -125,7 +125,7 @@ The following machine learning algorithms were implemented and compared to ident
 
 #### 🎯 Model Tuning
 
-**Hyperparameter Optimization:** Conducted using RandomizedSearchCV (3-fold cross-validation)
+**Hyperparameter Optimization:** Conducted using GirdsearchSearchCV
 
 **Parameters fine-tuned include:**
 
@@ -246,9 +246,7 @@ Outline potential future work that can be done to extend the project or improve 
 
 # Acknowledgments/References
 Acknowledge any contributors, data sources, or other relevant parties who have contributed to the project. This is an excellent way to show your appreciation for those who have helped you along the way.
-- Dataset inspired by open-source health data repositories
-
-- Image credits: rashadashurov @ VectorStock
+- Dataset inspired by open-source health data repositories.
 
 - README template adapted from Pragyy’s Data Science Readme Template
 
